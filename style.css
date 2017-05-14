@@ -3,7 +3,7 @@
     background-image: url(impossible1.png), url(impossible2.png), url('dungeon.jpg');
     background-repeat: no-repeat, no-repeat, repeat;
     background-attachment: fixed, fixed, fixed;
-    background-position: 40px 50px, 1200px 300px, 100px 0px;
+    background-position: 40px 50px, 1200px 350px, 100px 0px;
 
 }
   #headers{
